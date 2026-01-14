@@ -82,3 +82,5 @@ if (!works) {
     msg += " And she'll have to pay " + price + " to fix the fridge."
 }
 console.log(msg);
+
+
